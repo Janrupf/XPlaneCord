@@ -1,0 +1,6 @@
+[submodule "3rdparty/discord-rpc"]
+	path = 3rdparty/discord-rpc
+	url = https://github.com/discordapp/discord-rpc
+[submodule "3rdparty/X-RAAS2"]
+	path = 3rdparty/X-RAAS2
+	url = https://github.com/skiselkov/X-RAAS2
